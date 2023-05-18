@@ -10,4 +10,4 @@ ____________________________________________________________________
 This project is licensed under the MIT License.
 Feel free to customize the sections, add more details, or modify the structure according to your specific requirements.
 
-The information presented on this website is for illustrative purposes only and should be treated as hypothetical. While efforts have been made to provide accurate and up-to-date information, please note that all content, including event details, routes, and registration information, is purely fictitious and does not represent real-world events or organizations.
+The information presented on this website is for illustrative purposes only and should be treated as hypothetical. 
