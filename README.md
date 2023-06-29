@@ -7,7 +7,6 @@ It aims to serve as a hub for car enthusiasts, allowing them to stay informed ab
 
 ____________________________________________________________________
                       
-This project is licensed under the MIT License.
 Feel free to customize the sections, add more details, or modify the structure according to your specific requirements.
 
 The information presented on this website is for illustrative purposes only and should be treated as hypothetical. 
